@@ -1,0 +1,8 @@
+# Display interactive plots
+plotly>=5.11.0
+
+# For displaying Plotly plots within JppyterLab
+ipywidgets>=7.6
+
+# For exporting Plotly plots to an image file
+kaleido>=0.2.1
